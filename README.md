@@ -1,4 +1,4 @@
-# cypress-test
+# cypress-qaseio
 
 For install dependencies:
 ```
