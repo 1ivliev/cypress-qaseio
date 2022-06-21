@@ -7,7 +7,7 @@ npm i
 ---
 Before launching, it is necessary to fill out the `apiToken` and `projectCode` in the file
 ```
-cypress.json
+cypress.config.js
 ```
 
 ---
